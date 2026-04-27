@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Adiya",
+    "email": "adiya@mail.ru",
+    "birthday": "2006-05-03",
+    "date_added": "2026-04-27 18:12:31.948160",
+    "group": "Work",
+    "phones": [
+      {
+        "phone": "77056429908",
+        "type": "mobile"
+      },
+      {
+        "phone": "77020000000",
+        "type": "home"
+      },
+      {
+        "phone": "87784552222",
+        "type": "work"
+      }
+    ]
+  }
+]
