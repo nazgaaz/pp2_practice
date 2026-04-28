@@ -1,0 +1,29 @@
+[
+  {
+    "quit": false,
+    "status": "game_over",
+    "username": "naz",
+    "score": 274,
+    "coins": 8,
+    "distance": 154,
+    "date": "2026-04-28 06:56:53"
+  },
+  {
+    "quit": false,
+    "status": "game_over",
+    "username": "naz",
+    "score": 188,
+    "coins": 5,
+    "distance": 113,
+    "date": "2026-04-28 06:57:23"
+  },
+  {
+    "quit": false,
+    "status": "game_over",
+    "username": "naz",
+    "score": 54,
+    "coins": 1,
+    "distance": 39,
+    "date": "2026-04-28 06:56:41"
+  }
+]
